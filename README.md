@@ -1,7 +1,7 @@
 # Get Crackin' with Git using GitKraken
 
 In this workshop, participants learn how to use GitKraken's Git GUI and GitKraken Boards to collaborate on a project. This is the source code for that project! 
-
+l
 ## Complete This Workshop 
 
 To complete this workshop, follow the steps below: 
